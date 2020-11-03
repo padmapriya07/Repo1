@@ -1,2 +1,3 @@
 # Repo1
-javaprojects
+java
+This is my first project
