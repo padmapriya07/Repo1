@@ -13,6 +13,7 @@ public class addition1 {
     boolean k=h||i;
     boolean l=!h;
     int z=a*b;
+    int m=c+a;
     System.out.println("c="+c+"\n"+"z="+z+"\n"+"d="+d+"\n"+"g="+g+"\n"+"j="+j+"\n"+"k="+k+"\n"+"l="+l);
 	;
  char e='p';
