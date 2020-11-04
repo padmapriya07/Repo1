@@ -7,7 +7,7 @@ public class bankaccount {
 		int age;
 		float accountBalance;
 		boolean checkCredit;
-		String address = "Vivekananda St";
+		String address = "1 Vivekananda St";
 		public void checkCredit(){
 			checkCredit =false;
 		if(age>20 && accountBalance>=20000)
