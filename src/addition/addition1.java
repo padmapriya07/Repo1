@@ -7,6 +7,7 @@ public class addition1 {
 		int a=900, b=100;
 		int c=a+b;
     int d=a-b;
+    int v=c-a;
     float g=78.285985f+52.255545f;
     boolean h=true, i=false;
     boolean j=h&&i;
